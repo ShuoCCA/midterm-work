@@ -15,3 +15,4 @@ There are red, blue, green, purple, arquamarine and orange colors, and if you cl
 
 here's the video of my work: https://youtu.be/lVWPcjh6VH0
 
+<img=src https://github.com/ShuoCCA/midterm-work/blob/master/midterm%20iteration.JPG >
